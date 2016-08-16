@@ -60,7 +60,7 @@ for ii_file = 1:nFiles
     % Calculate manipulability for detecting pre-stretch poses
     [myManiRatio{ii_file,1} maxID(ii_file,:) minID(ii_file,:)]= GetManipulability(mdl_subject{ii_file,1});
     
-    % Calculate kinematic synergys by using BCH formula (We won't use "Conv_MagDelta")
+    % Calculate kinematic synergys by using BCH formula
     mdl_subject{ii_file,1} = GetLieParameters(mdl_subject{ii_file,1});
     for kk=3:nBody
         [Conv_MagDelta{ii_file,kk}] = LieConvolution(mdl_subject{ii_file,1}{kk,1}, [1 nData(ii_file,1)-2]);    
