@@ -1,5 +1,5 @@
 # Athletic_Movement_Detection
-The source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016
+These are the source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016. Please visit [my webpage](http://terryum.io/publications/#EMBC2016) for more papers, slides, etc.
 
 ## Instruction
 
@@ -26,4 +26,4 @@ Feel free to reuse the codes for your own research with your own risk. If you fe
 
 >Terry T. Um and Dana Kulić,  An unsupervised approach to detecting and isolating athletic movements,  In 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society,  2016. 
 
-You can download my paper and slides at EMBC2016 from [my webpage](http://terryum.io/publications/#EMBC2016)
+You can download my paper and slides from [my webpage](http://terryum.io/publications/#EMBC2016)
