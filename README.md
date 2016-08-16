@@ -22,8 +22,9 @@ These are the source codes for the paper, "An unsupervised approach to detecting
 * [/MocapData](https://github.com/terryum/Athletic_Movement_Detection/tree/master/MocapData)       :  CMU motion capture data for example codes (You can experiment with other mocap data by downloading from [CMU Mocap Database](http://mocap.cs.cmu.edu/))
 
 ## Terms of Use & Citation
-Feel free to reuse the codes for your own research with your own risk. If you feel being helped by the codes, please cite the below paper.
+Feel free to reuse the codes for your research with your own risk. If you feel being helped by the codes, please cite the below paper.
 
 >Terry T. Um and Dana Kulić,  An unsupervised approach to detecting and isolating athletic movements,  In 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society,  2016. 
 
-You can download my paper and slides from [my webpage](http://terryum.io/publications/#EMBC2016)
+You can download my paper and slides from [my webpage](http://terryum.io/publications/#EMBC2016).
+Thank you for your interest!
